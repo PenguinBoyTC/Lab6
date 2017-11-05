@@ -27,8 +27,8 @@ class TestSuite
 		bool test_8(); //size returns correct value after adds and removeBack 
 		bool test_9(); //search returns false on empty list
 		bool test_10(); //search return true if the value is in the list, false otherwise.
-		bool test_11(); //removeFront on empty list returns false
-		bool test_12(); //removeBack on empty list returns false
+		bool test_11(); //removeFront on empty list returns false; On non-empty list return true.
+		bool test_12(); //removeBack on empty list returns false; On non-empty list return true.
 		bool test_13(); //addFront add each element to the front of the list
 		bool test_14(); //addBack add each element to the back of the list
 		bool test_15(); //removeFront remove each element from the front of the list
