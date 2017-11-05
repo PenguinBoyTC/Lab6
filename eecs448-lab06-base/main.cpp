@@ -1,6 +1,6 @@
 /**
-*	@author 
-*	@date 
+*	@author Chong Tan
+*	@date 11/3/2017
 *	@file main.cpp
 *	@brief driver for LinkedList demo
 */
